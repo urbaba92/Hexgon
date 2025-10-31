@@ -1,1 +1,2 @@
 this is text file in git
+i add some line on this file
