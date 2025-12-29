@@ -1,5 +1,4 @@
-git push -u origin maingit push 
--u origin mainimport hashlib 
+import hashlib 
 import time class Block:
     def __init__(self, index, 
     previous_hash, data, 
